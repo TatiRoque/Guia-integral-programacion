@@ -1,0 +1,15 @@
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.exe
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.deps.json
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.dll
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.pdb
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.sourcelink.json
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.dll
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\refint\Ejercicio_4.dll
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.pdb
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\ref\Ejercicio_4.dll

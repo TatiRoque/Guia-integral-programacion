@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio_4\\ejercicio_4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio_4\\ejercicio_4\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio_4\\ejercicio_4\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio_4\\ejercicio_4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio_4\\ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E852ED48-5B15-4F13-B744-661D4DC38E25}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ejercicio_4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:33:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Models\\Product.cs",
+              "RelativeToolTip": "Ejercicio_4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:32:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Views\\ProductView.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Views\\ProductView.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Views\\ProductView.cs",
+              "RelativeToolTip": "Ejercicio_4\\Views\\ProductView.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA8wC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:31:35.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Program.cs",
+              "RelativeToolTip": "Ejercicio_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:28:10.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Repository\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Repository\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio_4\\Ejercicio_4\\Repository\\ProductoRepository.cs",
+              "RelativeToolTip": "Ejercicio_4\\Repository\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:30:15.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
