@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\views\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\views\\bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\views\\bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\views\\loanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\views\\loanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\repository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\repository\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|c:\\users\\maia\\desktop\\guia-integral-programacion\\ejercicio_5\\ejercicio_5\\repository\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6719CBA-876A-490B-8545-251932C770CB}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\repository\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Ejercicio_5\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:52:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Program.cs",
+              "RelativeToolTip": "Ejercicio_5\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:40:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Ejercicio_5\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:51:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanView.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Views\\LoanView.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Views\\LoanView.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Views\\LoanView.cs",
+              "RelativeToolTip": "Ejercicio_5\\Views\\LoanView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:51:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Views\\UserView.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Views\\UserView.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Views\\UserView.cs",
+              "RelativeToolTip": "Ejercicio_5\\Views\\UserView.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:50:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookView.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Views\\BookView.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Views\\BookView.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Views\\BookView.cs",
+              "RelativeToolTip": "Ejercicio_5\\Views\\BookView.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:50:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Repository\\DataRepository.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Repository\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Repository\\DataRepository.cs",
+              "RelativeToolTip": "Ejercicio_5\\Repository\\DataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:50:01.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Models\\User.cs",
+              "RelativeToolTip": "Ejercicio_5\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:48:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ejercicio_5\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:52:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Models\\Loan.cs",
+              "RelativeToolTip": "Ejercicio_5\\Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:49:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Models\\Book.cs",
+              "RelativeToolTip": "Ejercicio_5\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:46:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Repository\\Data\\data.json",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Repository\\Data\\data.json",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\Guia-integral-programacion\\Ejercicio_5\\Ejercicio_5\\Repository\\Data\\data.json",
+              "RelativeToolTip": "Ejercicio_5\\Repository\\Data\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T16:53:33.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

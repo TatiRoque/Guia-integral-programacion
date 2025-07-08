@@ -1,0 +1,35 @@
+{
+  "Books": [
+    {
+      "Title": "tati",
+      "Author": "tati",
+      "ISBN": "30",
+      "IsAvailable": false
+    }
+  ],
+  "Users": [
+    {
+      "Name": "juan",
+      "Email": "juan@juan"
+    },
+    {
+      "Name": "alberto",
+      "Email": "@alberto"
+    }
+  ],
+  "Loans": [
+    {
+      "Book": {
+        "Title": "tati",
+        "Author": "tati",
+        "ISBN": "30",
+        "IsAvailable": false
+      },
+      "User": {
+        "Name": "juan",
+        "Email": "juan@juan"
+      },
+      "Date": "2025-07-08T14:21:42.755428-03:00"
+    }
+  ]
+}
