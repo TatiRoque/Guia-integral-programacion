@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\views\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\views\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\printers\\digitalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\printers\\digitalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\printers\\paperprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\printers\\paperprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\services\\invoicesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\services\\invoicesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\services\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\services\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\services\\invoicecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\services\\invoicecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|c:\\users\\tatiana\\desktop\\gu\u00EDa-integral-programaci\u00F3n\\gu-a-integral-programaci-n\\ejercicio-3\\ejercicio-3\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E9D47-52C7-43E2-801A-6EB6D0D8CEBE}|Ejercicio-3\\Ejercicio-3.csproj|solutionrelative:ejercicio-3\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceView.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Views\\InvoiceView.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Views\\InvoiceView.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Views\\InvoiceView.cs",
+              "RelativeToolTip": "Ejercicio-3\\Views\\InvoiceView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:20:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DigitalPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Printers\\DigitalPrinter.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Printers\\DigitalPrinter.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Printers\\DigitalPrinter.cs",
+              "RelativeToolTip": "Ejercicio-3\\Printers\\DigitalPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:19:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaperPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Printers\\PaperPrinter.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Printers\\PaperPrinter.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Printers\\PaperPrinter.cs",
+              "RelativeToolTip": "Ejercicio-3\\Printers\\PaperPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:18:55.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Program.cs",
+              "RelativeToolTip": "Ejercicio-3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:02:56.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Interfaces\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "Ejercicio-3\\Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:18:29.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Services\\InvoiceSaver.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Services\\InvoiceSaver.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Services\\InvoiceSaver.cs",
+              "RelativeToolTip": "Ejercicio-3\\Services\\InvoiceSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:17:54.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoicePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Services\\InvoicePrinter.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Services\\InvoicePrinter.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Services\\InvoicePrinter.cs",
+              "RelativeToolTip": "Ejercicio-3\\Services\\InvoicePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:16:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Services\\InvoiceCalculator.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Services\\InvoiceCalculator.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Services\\InvoiceCalculator.cs",
+              "RelativeToolTip": "Ejercicio-3\\Services\\InvoiceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:16:16.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Ejercicio-3\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Desktop\\Gu\u00EDa-Integral-Programaci\u00F3n\\Gu-a-integral-programaci-n\\Ejercicio-3\\Ejercicio-3\\Models\\Invoice.cs",
+              "RelativeToolTip": "Ejercicio-3\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:15:12.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\bin\Debug\net8.0\Ejercicio-3.exe
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\bin\Debug\net8.0\Ejercicio-3.deps.json
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\bin\Debug\net8.0\Ejercicio-3.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\bin\Debug\net8.0\Ejercicio-3.dll
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\bin\Debug\net8.0\Ejercicio-3.pdb
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.sourcelink.json
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.dll
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\refint\Ejercicio-3.dll
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.pdb
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\Ejercicio-3.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Guía-Integral-Programación\Gu-a-integral-programaci-n\Ejercicio-3\Ejercicio-3\obj\Debug\net8.0\ref\Ejercicio-3.dll
